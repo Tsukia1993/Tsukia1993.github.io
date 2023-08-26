@@ -1,0 +1,1 @@
+Description of the customer's proposal of a product or service.

@@ -1,0 +1,1 @@
+The translated [[Sketch]] as discussed in detail to form high level requirements/acceptance tests with the middle man.

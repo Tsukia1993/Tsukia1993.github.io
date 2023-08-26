@@ -1,0 +1,1 @@
+Set of low level tasks that satisfy high level requirements/acceptance tests derived from a [[Technical document]]. Also know as [[Features]].

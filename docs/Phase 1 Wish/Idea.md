@@ -1,0 +1,1 @@
+Raw description of a specific part of the customer's product or service, exactly as stated by the customer.

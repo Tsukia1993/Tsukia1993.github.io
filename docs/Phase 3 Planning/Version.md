@@ -1,0 +1,1 @@
+Set of [[Sketch]]es, chosen based on priority and time cost up to a max. version duration (TBD).
